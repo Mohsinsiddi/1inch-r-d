@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T20:37:31.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ULCrD_g_HXCx6TW2xHxu" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T21:50:16.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iiXCpDn0GWOmB6M9m8ze" version="23.1.4" type="github">
   <diagram name="Page-1" id="5L_lO1v9JQhA8hlP-v6t">
     <mxGraphModel dx="2074" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="GiuKkgjAC9kKjLuXaXaB-14" value="Winable Tokens - 55%" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GiuKkgjAC9kKjLuXaXaB-11">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GiuKkgjAC9kKjLuXaXaB-16" value="Team - 10%" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GiuKkgjAC9kKjLuXaXaB-11">
+        <mxCell id="GiuKkgjAC9kKjLuXaXaB-16" value="Foundation - 10%" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GiuKkgjAC9kKjLuXaXaB-11">
           <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GiuKkgjAC9kKjLuXaXaB-17" value="Partnerships - 5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="GiuKkgjAC9kKjLuXaXaB-11">
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="GiuKkgjAC9kKjLuXaXaB-37" value="Actions of Creator Tickets" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GiuKkgjAC9kKjLuXaXaB-36">
           <mxGeometry x="15" y="95" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GiuKkgjAC9kKjLuXaXaB-38" value="This contract will be used to buy PUMP tokens&amp;nbsp;&lt;br&gt;with curve bonding mechanics and SOL used to&lt;br&gt;purchase will be distributed (50% to LP) and (50% to foundation): Target 100k USD equi SOL" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="520" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
